@@ -3,7 +3,6 @@
 - 🌱 I’m currently a Software Engineering undergraduate
 - 📫 You can reach me on Linkedin at www.linkedin.com/in/sashenka-goonewardane-94b616294 or email goonewardanes@gmail.com
 
-- ⚡ Fun fact: ...
 
 <!---
 SashenkaG/SashenkaG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
